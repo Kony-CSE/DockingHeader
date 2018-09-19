@@ -1,0 +1,24 @@
+{
+    "AS_Form_d5f026a5340e4cfebcf2287ea0f35aca": {
+        "id": "AS_Form_d5f026a5340e4cfebcf2287ea0f35aca",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "Form3",
+            "type": "forms",
+            "platform": null,
+            "KUID": "a8f000a823a94f9e8f8612712b878d98"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__bd635907591d438293027ad527111659",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": " this.view.enableOnScrollWidgetPosition = true;\n        this.view.FlexScrollContainer0a320900bf1204c.enableOnScrollWidgetPosition = true;\n        this.view.FlexCont1.onScrollWidgetPosition = this.FlexCont1CB;\n        this.view.FlexCont2.onScrollWidgetPosition = this.FlexCont2CB;\n        this.view.FlexCont3.onScrollWidgetPosition = this.FlexCont3CB;\n        this.view.FlexCont4.onScrollWidgetPosition = this.FlexCont4CB;\n       this.FlexCont1CBYpos =this.view.FlexCont1.frame.y;\n       this.FlexCont2CBYpos =this.view.FlexCont2.frame.y;\n       this.FlexCont3CBYpos =this.view.FlexCont3.frame.y;\n       this.FlexCont4CBYpos =this.view.FlexCont4.frame.y;",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

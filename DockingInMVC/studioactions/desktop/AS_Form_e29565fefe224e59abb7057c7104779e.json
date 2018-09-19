@@ -1,0 +1,23 @@
+{
+    "AS_Form_e29565fefe224e59abb7057c7104779e": {
+        "id": "AS_Form_e29565fefe224e59abb7057c7104779e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "FreeFormDockingWithClone",
+            "type": "forms",
+            "platform": null,
+            "KUID": "hc183eeb8f2a4a1aab434b912cf170d7"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_postShow_g6171449c89941dc8a15010b53779943",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "if(!this.cloneObj){\nthis.view.FlexContWhatsAppHead.onScrollWidgetPosition=self.whatsAppHeadCB;\nthis.view.FlexContOptionHead.onScrollWidgetPosition=self.whatsAppOptionHeadCB;\nthis.view.FlexScrollContainer0bac5d3c7f1c44c.enableOnScrollWidgetPosition=true;\n  this.view.FlexScrollContainer0bac5d3c7f1c44c.enableOnScrollWidgetPosition=true;\n\n this.cloneObj = this.view.FlexContOptionHead.clone(\"FlexContOptionHead_1\");\n           this.cloneObj.onScrollWidgetPosition = null;\n           this.cloneObj.top = 0;\n           //kony.print(\"newobj:: \"+cloneObj.id)\n           this.view.add(this.cloneObj)\n           this.optionHeadAdded = true;\nthis.cloneObj.isVisible=false;\n}",
+            "callbackType": null
+        }]
+    }
+}

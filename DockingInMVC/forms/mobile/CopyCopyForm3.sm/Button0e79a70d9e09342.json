@@ -1,0 +1,53 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "45%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s53f7edfb6314e3f9c0ecbfab38f469c",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "93%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s9fd1711bedc4ea4839c625ea292b35b",
+    "id": "Button0e79a70d9e09342",
+    "ide_onClick": "AS_Button_a1d4fa7d0d564cdd8f47b58acae4ebe0",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "dc4d808574894055b3a8444f579521f7",
+    "name": "kony.ui.Button",
+    "parent": "FlexScrollContainer0a320900bf1204c",
+    "pf": "CopyCopyForm3",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 200
+}

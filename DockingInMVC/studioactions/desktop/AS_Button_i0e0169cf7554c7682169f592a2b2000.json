@@ -1,0 +1,23 @@
+{
+    "AS_Button_i0e0169cf7554c7682169f592a2b2000": {
+        "id": "AS_Button_i0e0169cf7554c7682169f592a2b2000",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "VerticalFlowCase",
+            "type": "forms",
+            "platform": null,
+            "KUID": "c1e7f2325f3247929c0190249fd310e4"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_e4cdbfdb4ecb4cd5af0ad3d3224c2ab2",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.view.remove(dateContainer2);",
+            "callbackType": null
+        }]
+    }
+}

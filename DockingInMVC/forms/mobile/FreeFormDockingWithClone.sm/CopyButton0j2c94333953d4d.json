@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "70%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sc069ba913de46fc81fd34359a946b1f",
+    "_text_": "CALLS",
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "26%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s01ab8b86291435bbde80701244d468e",
+    "id": "CopyButton0j2c94333953d4d",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "cda325c2722e47fa9e4c5991b99cfd10",
+    "name": "kony.ui.Button",
+    "parent": "FlexContOptionHead",
+    "pf": "FreeFormDockingWithClone",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

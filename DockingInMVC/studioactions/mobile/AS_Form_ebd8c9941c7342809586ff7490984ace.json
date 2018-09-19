@@ -1,0 +1,23 @@
+{
+    "AS_Form_ebd8c9941c7342809586ff7490984ace": {
+        "id": "AS_Form_ebd8c9941c7342809586ff7490984ace",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "FreeFormDockingWithoutClone",
+            "type": "forms",
+            "platform": null,
+            "KUID": "ee97b47978064899b6d7e3e3fcb39b97"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_postShow_e58a009747324d07b24603c95f186a79",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "//this.view.FlexContWhatsAppHead.onScrollWidgetPosition=self.whatsAppHeadCB;\nthis.view.FlexContOptionHead.onScrollWidgetPosition=self.whatsAppOptionHeadCB;\nthis.view.FlexScrollContainer0bac5d3c7f1c44c.enableOnScrollWidgetPositionForSubwidgets=true;\nthis.view.FlexScrollContainer0bac5d3c7f1c44c.enableOnScrollWidgetPositionForSubwidgets=true;",
+            "callbackType": null
+        }]
+    }
+}

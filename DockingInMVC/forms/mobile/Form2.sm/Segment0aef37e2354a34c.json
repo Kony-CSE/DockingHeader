@@ -1,0 +1,118 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "Button0b82ffd399d6845": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            }
+        },
+        {
+            "Button0b82ffd399d6845": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            }
+        },
+        {
+            "Button0b82ffd399d6845": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "30%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "553dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "81.78%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "02",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "Segment0aef37e2354a34c",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "e779a7417d78407e997214023278aa03",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "Form2",
+    "pf": "Form2",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowTemplateId": "aae08f2fad9a4299a07130e3aea0db62",
+    "rowcounter": 2,
+    "rowfocusskin": "s0652afc509a41338f3f1ce9ec74cc55",
+    "rowskin": "sb280054824b4c4bbdcb868da9d2268f",
+    "rowtemplate": "Flex0fa031466f2dc40",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "sbcac3adf4684721a82f3c552c5244b6",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "aaaaaa00",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "Button0b82ffd399d6845": "Button0b82ffd399d6845",
+        "Flex0fa031466f2dc40": "Flex0fa031466f2dc40"
+    },
+    "zindex": 1
+}

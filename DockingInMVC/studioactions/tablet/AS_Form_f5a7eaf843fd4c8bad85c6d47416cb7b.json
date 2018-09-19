@@ -1,0 +1,23 @@
+{
+    "AS_Form_f5a7eaf843fd4c8bad85c6d47416cb7b": {
+        "id": "AS_Form_f5a7eaf843fd4c8bad85c6d47416cb7b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "FreeFormDockingWithClone",
+            "type": "forms",
+            "platform": null,
+            "KUID": "aee19870caaa49e4b3ab88247f345e47"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onHide_b095e5e037324dc0b16d5a37a52cc111",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.print(\"onhide\");",
+            "callbackType": null
+        }]
+    }
+}

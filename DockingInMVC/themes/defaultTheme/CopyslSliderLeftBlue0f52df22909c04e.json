@@ -1,0 +1,109 @@
+{
+  "android": {
+    "background_color": "4fb38eff",
+    "bg_type": "one",
+    "font_name": "default",
+    "isForked": true
+  },
+  "background_color": "167efcff",
+  "bg_type": "one",
+  "border_color": "000000ff",
+  "border_style": "plain",
+  "border_type": 0,
+  "border_width": 0,
+  "desktopweb": {
+    "background_color": "4fb38eff",
+    "bg_type": "one",
+    "font_name": "Helvetica",
+    "isForked": true
+  },
+  "font_color": "000000ff",
+  "font_name": "Helvetica",
+  "font_size": 118,
+  "font_style": "normal",
+  "font_weight": "normal",
+  "ipad": {
+    "background_color": "4fb38eff",
+    "bg_type": "one",
+    "font_name": "Helvetica",
+    "isForked": true
+  },
+  "iphone": {
+    "background_color": "4fb38eff",
+    "bg_type": "one",
+    "font_name": "Helvetica",
+    "isForked": true
+  },
+  "isDefaultSkin": false,
+  "kiosk": {
+    "background_color": "4fb38eff",
+    "bg_type": "one",
+    "font_name": "None",
+    "isForked": true
+  },
+  "kuid": "s3efc806e26e4f3bbba84108f9e93828",
+  "spaan": {
+    "background_color": "4fb38eff",
+    "bg_type": "one",
+    "font_name": "Helvetica",
+    "isForked": true
+  },
+  "spaandroidtablet": {
+    "background_color": "4fb38eff",
+    "bg_type": "one",
+    "font_name": "Helvetica",
+    "isForked": true
+  },
+  "spabb": {
+    "background_color": "4fb38eff",
+    "bg_type": "one",
+    "font_name": "Helvetica",
+    "isForked": true
+  },
+  "spaip": {
+    "background_color": "4fb38eff",
+    "bg_type": "one",
+    "font_name": "Helvetica",
+    "isForked": true
+  },
+  "spaipad": {
+    "background_color": "4fb38eff",
+    "bg_type": "one",
+    "font_name": "Helvetica",
+    "isForked": true
+  },
+  "spawindowstablet": {
+    "background_color": "4fb38eff",
+    "bg_type": "one",
+    "font_name": "Helvetica",
+    "isForked": true
+  },
+  "spawinphone8": {
+    "background_color": "4fb38eff",
+    "bg_type": "one",
+    "font_name": "Helvetica",
+    "isForked": true
+  },
+  "tabrcandroid": {
+    "background_color": "4fb38eff",
+    "bg_type": "one",
+    "font_name": "default",
+    "isForked": true
+  },
+  "wType": "Slider",
+  "watchos": {
+    "font_name": "System"
+  },
+  "windows8": {
+    "background_color": "4fb38eff",
+    "bg_type": "one",
+    "font_name": "None",
+    "isForked": true
+  },
+  "winphone8": {
+    "background_color": "4fb38eff",
+    "bg_type": "one",
+    "font_name": "None",
+    "isForked": true
+  }
+}

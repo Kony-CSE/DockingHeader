@@ -1,0 +1,23 @@
+{
+    "AS_Form_e5f6276b4a634d34b53869c259aeec7d": {
+        "id": "AS_Form_e5f6276b4a634d34b53869c259aeec7d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "VerticalFlowCase",
+            "type": "forms",
+            "platform": null,
+            "KUID": "adb3bcd3b5e149f49232c8e91332367a"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_postShow_e3040cdf1da74b949277f86f1f222c40",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.view.dateContainer1.onScrollWidgetPosition=self.dateDock;\nthis.view.dateContainer2.onScrollWidgetPosition=self.dateDock;\nthis.view.dateContainer3.onScrollWidgetPosition=self.dateDock;\nthis.view.dateContainer4.onScrollWidgetPosition=self.dateDock;\nthis.view.dateContainer5.onScrollWidgetPosition=self.dateDock;\nthis.view.dateContainer6.onScrollWidgetPosition=self.dateDock;\nthis.view.dateContainer7.onScrollWidgetPosition=self.dateDock;\nthis.view.dateContainer8.onScrollWidgetPosition=self.dateDock;\nthis.view.downImage.onScrollWidgetPosition=self.downImageAppear;\nthis.view.FlexScrollContainer0g527f32acbeb4e.enableOnScrollWidgetPosition=true;",
+            "callbackType": null
+        }]
+    }
+}

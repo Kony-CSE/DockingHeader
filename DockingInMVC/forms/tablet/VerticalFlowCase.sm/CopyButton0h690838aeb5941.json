@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "45%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "83%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sfc6fc0ef3004070b2411e72d15a4d0f",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "25%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "8%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s95d9f75d3084d1bb9370a722e9f9cd9",
+    "id": "CopyButton0h690838aeb5941",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "d1efc752e1264f5fb0e29156d4a434ad",
+    "name": "kony.ui.Button",
+    "parent": "FlexContWhatsAppHead",
+    "pf": "VerticalFlowCase",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

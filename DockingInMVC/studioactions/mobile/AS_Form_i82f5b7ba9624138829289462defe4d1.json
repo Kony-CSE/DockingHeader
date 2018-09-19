@@ -1,0 +1,24 @@
+{
+    "AS_Form_i82f5b7ba9624138829289462defe4d1": {
+        "id": "AS_Form_i82f5b7ba9624138829289462defe4d1",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "Form1",
+            "type": "forms",
+            "platform": null,
+            "KUID": "ga8ce5a87b4843cf8511d4f447cdef17"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__bcbd1f14bc2f4a03ae08a61c9769f0e3",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.view.CopyButton0a9bb920d54724d.onScrollWidgetPosition=this.directScroll;",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "AS_Form_gad492f12ed849d181c743d13d463bae": {
+        "id": "AS_Form_gad492f12ed849d181c743d13d463bae",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "TextBoxCase",
+            "type": "forms",
+            "platform": null,
+            "KUID": "f4d027cc019b4db9a47eb0ffe8945461"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_postShow_dc3eb2f555c24b6e99bd26e0e02252d5",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "if(!this.cloneObj){\n  this.view.enableOnScrollWidgetPosition=true;\nthis.view.FlexContWhatsAppHead.onScrollWidgetPosition = self.headerDock;\nthis.view.FlexScrollContainer0bac5d3c7f1c44c.enableOnScrollWidgetPosition = true;\nthis.cloneObj = this.view.FlexContWhatsAppHead.clone(\"FlexContWhatsAppHead_2\")\nthis.cloneObj.onScrollWidgetPosition = null;\nthis.cloneObj.top = 0;\nthis.view.add(this.cloneObj)\nthis.headerDockAdded = true;\n//kony.print(\"newobj:: \"+cloneObj.id)\n}",
+            "callbackType": null
+        }]
+    }
+}
